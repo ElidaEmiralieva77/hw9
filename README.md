@@ -3,4 +3,4 @@
 Использовала регулярное выражение:(^|\s)+[Н][а-я]*(город) Всего упоминаний Новгорода нашла:32
 ![] (https://vk.com/photo212410336_45624144)
 (file:///C:/Users/Emir/Documents/WZKbAEz368U.jpg)
-![](
+![](https://sun1-15.userapi.com/c840529/v840529302/88f86/BDTus4jqdhY.jpg)
